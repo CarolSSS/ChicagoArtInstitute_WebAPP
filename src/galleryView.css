@@ -1,0 +1,57 @@
+.egg {
+  width : 400px;
+  height : 400px;
+  background-color: #ab1818;
+  margin:1%;
+  text-decoration: none;
+}
+
+.box {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  align-content: flex-end;
+  align-items: baseline;
+}
+
+
+.box2 {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-around;
+  align-content: stretch;
+  align-items: baseline;
+}
+
+.buttonsize{
+  height:10%;
+  width:20%;
+}
+
+.buttonsize2{
+  margin:0;
+  padding:2%;
+  height:10%;
+  width:20%;
+  background-color:#FE8B8B;
+}
+
+.helper {
+  width:80%;
+  height:80%;
+}
+
+.word{
+  font-size: 10px;
+}
+
+.footer{
+  width:100%;
+  height:10%;
+  display:absolute;
+}
+
+.box6{
+  background-color:#F0B2B9;
+  width:2%;
+}
